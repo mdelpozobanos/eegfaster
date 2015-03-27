@@ -1,0 +1,7 @@
+language: python
+python:
+    - "2.7"
+install:
+    - "pip install -r requirements/dev-py2.txt --use-mirrors"
+script:
+    - "make test-all"
