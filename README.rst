@@ -82,4 +82,4 @@ under the `MIT license <http://opensource.org/licenses/MIT>`_.
 
 .. _NumPy: http://www.numpy.org/
 .. _SciPy: http://www.scipy.org/
-.. _file an issue: https://github.com/mdelpozobanos/eeglcf/issues
+.. _file an issue: https://github.com/mdelpozobanos/eegfaster/issues
