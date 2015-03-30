@@ -6,7 +6,6 @@ eegfaster.py
 ===============================
 
 This is the main file from the eegfaster package.
-A couple of silly functions and classes are defined here as examples.
 
 """
 
